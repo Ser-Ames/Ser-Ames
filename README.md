@@ -10,7 +10,7 @@ When I finish my bachelors degree I want to work as a server administrator or we
 
 ### Links
 
-[Website](https://serames.me) |
+[Website](https://ser.moe) |
 [Rainbow Six](https://serames.me/r6) | 
 [Discord Server](https://serames.me/discord)
 

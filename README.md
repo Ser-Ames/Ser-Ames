@@ -1,8 +1,8 @@
 I'm Amie, a self taught js dev
 
-I currently am in university doing a Bachelor of Computing Systems and I really enjoy it.
+I currently am in university doing a Bachelor of Computing Systems and I really enjoy it. I'm learning C# through GUI and algorithm development as well as learning data warehousing and SQL.
 
-I spend most of my time either playing Rainbow Six: Siege or programming.
+I spend most of my time either playing Destiny 2, Rainbow Six: Siege, Titanfall 2 or programming.
 
 Most of my projects are for fun and never something that I get paid for (although getting paid would just be a nice little bonus)
 

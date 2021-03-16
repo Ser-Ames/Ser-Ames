@@ -12,7 +12,7 @@ When I finish my bachelors degree I want to work as a server administrator or we
 
 [Website](https://ser.moe) |
 [Rainbow Six](https://ser.moe/r6) | 
-[Discord Server](https://serames.me/discord)
+[Discord Server](https://ser.moe/discord)
 
 <!--
 **Ser-Ames/Ser-Ames** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
